@@ -12,14 +12,15 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Parth4149/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parth4149&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Parth4149/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parth4149&show_icons=true&count_private=true&theme=algolia&bg_color=212529" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth4149&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Parth" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth4149&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=212529" alt="Parth" height="192px"/>
   <br/>
   </p>
 </details>
 
+<br/>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -62,8 +63,6 @@
 <a href="https://twitter.com/parth4149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/parth___7788" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
-#
-<a href="https://github.com/Parth4149" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4149&langs_count=10&title_color=3382ed&text_color=f5f3f4&icon_color=3382ed&bg_color=212529&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **Parth4149/Parth4149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
