@@ -1,4 +1,4 @@
-## Hi 👋 I'm **Parth Prajapati**
+## Hi 👋 I'm **Parth Prajapati, _Frontend Developer_**
 
 ### Skills
 
@@ -31,6 +31,9 @@
 <a href="https://www.linkedin.com/in/parth-prajapati-41b6651b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/parth4149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/parth___7788" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+
+#
+<a href="https://github.com/Parth4149" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4149&langs_count=10&title_color=3382ed&text_color=f5f3f4&icon_color=3382ed&bg_color=212529&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **Parth4149/Parth4149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
