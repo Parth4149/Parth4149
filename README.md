@@ -22,13 +22,13 @@
 
 <br/>
 
-<details>
+<!-- <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Parth4149"><img alt="Part's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Parth4149&custom_title=Parth%20Prajapati's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
+</details> -->
 
 <br/>
 
