@@ -30,7 +30,6 @@
 
 </details> -->
 
-<br/>
 
 ### Skills
 
