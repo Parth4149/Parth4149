@@ -13,7 +13,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/Parth4149/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parth4149&show_icons=true&count_private=true&theme=algolia&bg_color=212529" height="192px"/></a>
-<br/>
+<br/><br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth4149&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=212529" alt="Parth" height="192px"/>
   <br/>
@@ -55,14 +55,29 @@
 
 
 
-### Socials
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+   <a href="mailto:abhidadhaniya23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
+	</a>
+	<a href="https://www.linkedin.com/in/parth-prajapati-41b6651b9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/parth4149" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo" />
+  </a>
+  <a href="https://www.instagram.com/parth___7788" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
+</div>
 
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://github.com/Parth4149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/parth-prajapati-41b6651b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/parth4149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/parth___7788" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-
+<a href="mailto:pparth7788@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  /> -->
 
 <!--
 **Parth4149/Parth4149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
