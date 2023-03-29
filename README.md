@@ -2,8 +2,10 @@
 
 <p> I am pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </p>
-<br>
 
+- 💬 Ask me about **Javascript**
+- 📫 How to reach me [**pparth7788@gmail.com**](mailto:pparth7788@gmail.com)
+<br />
 
 ## 📊 Github Stats (Expand to View) 
 
@@ -56,7 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-   <a href="mailto:abhidadhaniya23@gmail.com" target="_blank">
+   <a href="mailto:pparth7788@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
 	</a>
 	<a href="https://www.linkedin.com/in/parth-prajapati-41b6651b9/" target="_blank">
