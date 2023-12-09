@@ -35,7 +35,7 @@
 
 ## Skills
 
-HTML, CSS, Javascript, ES6, React, Redux, Git, Github, OOP, Algorithms, Firebase, Figma
+HTML, CSS, Javascript, ES6, Typescript, React, Redux, NextJS, Git, Github, OOP, Algorithms, Firebase, Figma
 
 <br />
 
