@@ -35,7 +35,7 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 
 ## Skills
 
-Javascript, Typescript, React, React-Native, Redux-Toolkit, NextJS, GraphQL, HTML, CSS, ES6, , Git, Github, OOP, Algorithms, Figma
+Javascript, Typescript, React, React-Native, Redux-Toolkit, NextJS, GraphQL, HTML, CSS, ES6, , Git, Github, OOP, Algorithms
 
 <br />
 
