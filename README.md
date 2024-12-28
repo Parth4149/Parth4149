@@ -1,9 +1,9 @@
 ## Hi 👋 I'm **Parth Prajapati, _Frontend Developer_**
 
-<p> I am pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
+I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </p>
 
-- 💬 Ask me about **CSS, Javascript, ReactJS, NextJS**
+- 💬 Ask me about **ReactJS, React-Native, NextJS, HTML, CSS, Javascript, TypeScript**
 - 📫 How to reach me [**pparth7788@gmail.com**](mailto:pparth7788@gmail.com)
 <br />
 
