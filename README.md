@@ -7,21 +7,6 @@ I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a soci
 - 📫 How to reach me [**pparth7788@gmail.com**](mailto:pparth7788@gmail.com)
 <br />
 
-## 📊 Github Stats (Expand to View) 
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Parth4149/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parth4149&show_icons=true&count_private=true&theme=algolia&bg_color=212529" height="192px"/></a>
-<br/><br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Parth4149&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=212529" alt="Parth" height="192px"/>
-  <br/>
-  </p>
-</details>
-
 <br/>
 
 <!-- <details>
