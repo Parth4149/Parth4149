@@ -3,24 +3,10 @@
 I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </p>
 
-- 💬 Ask me about **ReactJS, React-Native, NextJS, HTML, CSS, Javascript, TypeScript, GraphQL**
-- 📫 How to reach me [**pparth7788@gmail.com**](mailto:pparth7788@gmail.com)
-<br />
-
-<br/>
-
-<!-- <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Parth4149"><img alt="Part's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Parth4149&custom_title=Parth%20Prajapati's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details> -->
-
 
 ## Skills
 
-Javascript, Typescript, React, React-Native, Redux-Toolkit, NextJS, GraphQL, HTML, CSS, ES6, , Git, Github, OOP, Algorithms
+Javascript, Typescript, React, React-Native, Expo, Redux-Toolkit, NextJS, GraphQL, HTML, CSS, OOP
 
 <br />
 
